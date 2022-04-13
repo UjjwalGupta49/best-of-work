@@ -7,6 +7,6 @@
 </head>
 <body>
     <h2>Best of Ujjwal Gupta<h2>
-        <p>This repository is a compilation for best of my work in the Web3 ecosystem.<p>
+        <h5>This repository is a compilation for best of my work in the Web3 ecosystem 🔥<h5>
 </body>
 </html>
