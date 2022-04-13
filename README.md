@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>best of Ujjwal Gupta</title>
 </head>
 <body>
     <h2>Best of Ujjwal Gupta<h2>
+        <p>This repository is a compilation for best of my work in the Web3 ecosystem.<p>
 </body>
 </html>
