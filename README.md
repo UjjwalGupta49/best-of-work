@@ -17,7 +17,7 @@ Bounty Bot also, increases the community engagement and helps in attracting cont
 [solana-base-app](https://github.com/UjjwalGupta49/solana-base-app)<br/>
 solana-base-app is a dapp scaffold, including most of the common features<br/> 
 such as wallet-adapter, token balance, airdrops, transaction, **solana-pay**.<br/>
-solana-base-app helps new developers onboard to the solana ecosystem with minimum resistance and provides vetran galss-eaters a sandbox with modular react components to build upon. 
+solana-base-app helps new developers onboard to the solana ecosystem with minimum resistance and provides vetran galss-eaters a sandbox with modular react components to build upon.<br/> 
 try using `npx solana-base-app react my-app`
 > solana-base-app was featured at [soldev.app](https://soldev.app/library/scaffolds) and has helped 300+ developers with their solana journey. ✨
 
