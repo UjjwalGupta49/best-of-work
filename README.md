@@ -21,6 +21,10 @@ solana-base-app helps new developers onboard to the solana ecosystem with minimu
 try using `npx solana-base-app react my-app`
 > solana-base-app was featured at [soldev.app](https://soldev.app/library/scaffolds) and has helped 300+ developers with their solana journey. ✨
 
+[Wordcel](https://www.wordcel.club/)<br/>
+Wordcel is a Decentralized Publishing Stack on Solana that enables creators to publish, distribute and monetise their work on-chain with absolute freedom and ownership.<br/>
+> [Wordcel](https://www.wordcel.club/) won the Web3 track for the Solana Riptide hackathon, its the first project under the [FTX Superteam](https://www.ftxsuperteam.com/) program. ✔️
+
 [DisWallet](https://diswallet.app/)<br/>
 DisWallet makes it easier to do fast and secured transactions with your community members in just a few simple commands.
 
