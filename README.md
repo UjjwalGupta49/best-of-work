@@ -6,7 +6,7 @@ Getting stared! <br/>
 I'm Ujjwal Gupta, Fullstack developer, learning **Solana development** and working in the Web3 ecosystem.
 I have keen intrest in **bussiness development and econmics** for the crypto space and also in general,
 have been **programming since age 13** and have built multiple Machine learning and Crypto project over the years.<br/>
->SPL wallet address: EnYqiB4AsV9dcihwCdcPrnE6fXZLNxYxfrzVG4CT2vR8<br/>
+>SPL wallet address: ujjwal49.sol<br/>
 >email: ujjwalg056@gmail.com
     
 ### Code shill ⚡
